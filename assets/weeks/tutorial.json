@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["silly-billy", "bf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "a",
+	"weekName": "a",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
